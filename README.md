@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋, I'm Arman Hossain Somoy
+A passionate frontend developer from Bangladesh
+🔭 I’m currently working on Future Innovation LTD
 
-<!--
-**developerperves/developerperves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning REACT, Mongo DB, Express JS
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/armansomoy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me besomoy@gmail.com
+
+Connect with me:
+armansomoy armansomoy armansomoy armansomoy armansomoy
+
+Languages and Tools:
+bash bootstrap css3 express figma firebase git html5 javascript nodejs photoshop react reactnative sass tailwind xd
