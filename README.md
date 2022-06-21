@@ -73,6 +73,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mdperveshossen">
+    <img src="https://komarev.com/ghpvc/?username=developerperves">
 </a>
-<a href="https://github.com/mdperveshossen?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mdperveshossen?tab=followers"><img src="https://img.shields.io/github/followers/developerperves?label=Followers&style=social" alt="GitHub Badge"></a>
