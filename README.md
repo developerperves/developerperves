@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/developerperves/developerperves/main/pervess.png" />
+<img src="https://raw.githubusercontent.com/mdperves127/mdperves127/main/pervess.png" />
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Perves</h1> -->
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
@@ -40,16 +40,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/developerperves/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md: Perves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developerperves&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/mdperves127/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md: Perves's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdperves127&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/developerperves/github-readme-stats"><img alt="Md: Perves's Github Stats" src="https://github-readme-stats.vercel.app/api?username=developerperves&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/developerperves/github-readme-stats"><img alt="Md: Perves's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerperves&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mdperves127/github-readme-stats"><img alt="Md: Perves's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdperves127&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mdperves127/github-readme-stats"><img alt="Md: Perves's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdperves127&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/developerperves/github-readme-activity-graph"><img alt="Md: Perves's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerperves&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mdperves127/github-readme-activity-graph"><img alt="Md: Perves's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdperves127&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -73,6 +73,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=developerperves">
+    <img src="https://komarev.com/ghpvc/?username=mdperves127">
 </a>
-<a href="https://github.com/mdperveshossen?tab=followers"><img src="https://img.shields.io/github/followers/developerperves?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mdperveshossen?tab=followers"><img src="https://img.shields.io/github/followers/mdperves127?label=Followers&style=social" alt="GitHub Badge"></a>
