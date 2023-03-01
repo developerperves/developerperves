@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/mdperves127/mdperves127/main/1.png" />
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Perves</h1> -->
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
-<p align="center">Hello, everyone. I'm Md. Perves a professional Full-Stack Web. Style & Develop is my passion. I have 3+ years of working experience in both local & international designing industries having advanced knowledge of full-Stack website developer with expertise in PHP, Laravel, MySQL database, React.js, Firebase, Node.js, MongoDB, Express.js, Rest API, Html, CSS, Bootstrap, JAVASCRIPT, JQUERY & Ajax.</p>
+<!-- <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3> -->
+<p align="center">Greetings, everyone! I'm thrilled to introduce myself as Md. Perves, a dedicated and passionate Full-Stack Web developer. My passion for Style & Development is backed by over three years of professional experience in both local and international designing industries. With advanced knowledge of a variety of full-Stack website development tools such as PHP, Laravel, MySQL database, React.js, Firebase, Node.js, MongoDB, Express.js, Rest API, Html, CSS, Bootstrap, JAVASCRIPT, JQUERY & Ajax, I possess the expertise to create visually stunning, user-friendly, and functionally efficient websites. I believe in providing my clients with tailored solutions that meet their specific requirements, and I'm committed to delivering top-notch quality work that exceeds expectations.</p>
 
 
 ## 🙋‍♂️ About Me
